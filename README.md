@@ -1,2 +1,2 @@
 # hello-wold
-Just another repository
+My first repository
